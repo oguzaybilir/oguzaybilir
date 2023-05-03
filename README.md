@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Deep Learning and Computer Vision<br>👯 I'm looking to collaborate on Deep Learning and Computer Vision<br>🌱 I'm currently learning Deep Learning, Computer Vision and Reinforcement Learning<br>💬 Ask me about Deep Learning and Computer Vision<br>⚡ Fun fact sunglasses looks very cool
+🔭 I'm currently working on Deep Learning and Computer Vision<br>👯 I'm looking to collaborate on Deep Learning and Computer Vision projects<br>🌱 I'm currently learning Deep Learning, Computer Vision and Reinforcement Learning<br>💬 Ask me about Deep Learning and Computer Vision<br>⚡ Fun fact sunglasses looks very cool
 
 
 ## 🌐 Socials:
