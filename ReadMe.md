@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Computer Vision and Autonomous Systems<br>👯 I’m looking to collaborate on Robotics projects<br>🤝 I’m looking for help with Deep Learning, Computer Vision, ROS and Autonomous Systems<br>🌱 I’m currently learning Autonomous Systems<br>
+🔭 I’m currently working on Computer Vision and Autonomous Systems<br>👯 I’m looking to collaborate on Robotics Projects<br>🤝 I’m looking for help with Deep Learning, Computer Vision, ROS and Autonomous Systems<br>🌱 I’m currently learning Autonomous Systems<br>
 
 
 ## 🌐 Socials:
