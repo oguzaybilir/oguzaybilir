@@ -12,8 +12,8 @@
 
 I have over 5 years of experience and a versatile professional approach. I enjoy collaborating, developing software for solutions, and staying up-to-date. I take pleasure in using my creativity in the business world.
 
-- 🏢 Working at **Agrovech** in **Ceyhan, Adana**
-- 🌱 Currently learning **Artificial Intelligence and Computer Vision techniques**
+- 🏢 Working remotely for **Agrovech** from **Ceyhan, Adana**
+- 🌱 Currently learning **Artificial Intelligence, Computer Vision, Geographic Information Systems and LLM's.**
 - 💬 Ask me about **Artificial Intelligence, Computer Vision, Geographic Information Systems**
 - ⚡ Finalist in several Teknofest competitions, including first place in the 2023 Teknofest Artificial Intelligence in Transportation Competition.
 
